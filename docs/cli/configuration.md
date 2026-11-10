@@ -1,4 +1,4 @@
----
+---cofiguration
 description: "Settings that mise reads from CLI flags and environment variables"
 ---
 
