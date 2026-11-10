@@ -1,4 +1,4 @@
----
+---shims.md
 description: "Choose between shell activation, shims and mise exec, and run the right tool version from editors and scripts."
 ---
 
